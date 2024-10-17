@@ -9,3 +9,4 @@ This repository contains hands-on lab activities completed during my preparation
 - **[Lab 5](https://github.com/Namrata-91/aws-solutions-architect-labs-/tree/main/Lab%205)**: **Creating NAT Gateways in AWS**
 - **[Lab 6](https://github.com/Namrata-91/aws-solutions-architect-labs-/tree/main/Lab%206)**: **Understanding and Configuring Layered Security in an AWS VPC**
 - **[Lab 7](https://github.com/Namrata-91/aws-solutions-architect-labs-/tree/main/Lab%207)**: **Access S3 from Private EC2 Instance Using VPC Endpoint**
+- **[Lab 8](https://github.com/Namrata-91/aws-solutions-architect-labs-/tree/main/Lab%208#aws-peer-vpc-with-transit-gateway-and-its-components)**: **AWS Peer VPC with Transit Gateway and its components**
