@@ -10,3 +10,4 @@ This repository contains hands-on lab activities completed during my preparation
 - **[Lab 6](https://github.com/Namrata-91/aws-solutions-architect-labs-/tree/main/Lab%206)**: **Understanding and Configuring Layered Security in an AWS VPC**
 - **[Lab 7](https://github.com/Namrata-91/aws-solutions-architect-labs-/tree/main/Lab%207)**: **Access S3 from Private EC2 Instance Using VPC Endpoint**
 - **[Lab 8](https://github.com/Namrata-91/aws-solutions-architect-labs-/tree/main/Lab%208#aws-peer-vpc-with-transit-gateway-and-its-components)**: **AWS Peer VPC with Transit Gateway and its components**
+- **[Lab 9](https://github.com/Namrata-91/aws-solutions-architect-labs-/tree/main/Lab%209)**: **Setting up the VPC environment, launching EC2 instances, and testing reachability using the AWS Reachability Analyzer**
